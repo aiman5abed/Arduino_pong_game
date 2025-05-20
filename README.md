@@ -92,6 +92,7 @@ See full connection layout in [`diagram.json`](./diagram.json)
 ```bash
 git clone https://github.com/aimanabed/ArduinoPong.git
 cd ArduinoPong
+```
 Open pong.ino in the Arduino IDE.
 Install dependencies via Library Manager.
 Connect your Arduino Nano and select the right COM port and board.
