@@ -133,7 +133,7 @@ For permissions beyond the scope of this license, please contact Tel Aviv Univer
 
 Developed by:
 
-Aiman Abed – GitHub
+Aiman Abed – developer
 Edward Khoury – Co-developer
 
 <p align="center">
