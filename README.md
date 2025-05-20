@@ -107,12 +107,14 @@ Move paddles via potentiometers.
 Buzzer plays sounds on collisions and scores.
 Repository Structure
 
+```
 ArduinoPong/
 ├── pong.ino                   # Main Arduino sketch
 ├── diagram.json               # Wokwi wiring diagram
 ├── libraries.txt              # Required Arduino libraries
 ├── presentation2_pong.pptx    # Final project presentation
 └── README.md                  # This file
+```
 
 ## License & Credits
 
