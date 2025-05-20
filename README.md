@@ -14,6 +14,7 @@ A two-player (or single-player vs. AI) arcade-style Pong game implemented on an 
 * [Installation](#installation)
 * [Usage](#usage)
 * [Repository Structure](#repository-structure)
+* [Live Simulation](#live-simulation)
 * [License & Credits](#license--credits)
 
 ---
@@ -115,6 +116,14 @@ ArduinoPong/
 ├── presentation2_pong.pptx    # Final project presentation
 └── README.md                  # This file
 ```
+##  Live Simulation
+
+Click below to try the **Arduino Pong Game** in Wokwi:
+
+[![Run on Wokwi](https://img.shields.io/badge/Wokwi-Simulator-green?logo=arduino)](https://wokwi.com/projects/429208251543079937)
+
+[![Pong Game Preview](./pong.png)](https://wokwi.com/projects/429208251543079937)
+
 
 ## License & Credits
 
