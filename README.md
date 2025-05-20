@@ -112,7 +112,8 @@ ArduinoPong/
 ├── libraries.txt              # Required Arduino libraries
 ├── presentation2_pong.pptx    # Final project presentation
 └── README.md                  # This file
-License & Credits
+
+## License & Credits
 
 Tel Aviv University Educational License (TAU-EL)
 
@@ -133,6 +134,7 @@ Developed by:
 
 Aiman Abed – GitHub
 Edward Khoury – Co-developer
+
 <p align="center">
   <img src="https://en-engineering.tau.ac.il/sites/engineering-english.tau.ac.il/files/TAU_facultot_logos-01-handasa_0.png" alt="Tel Aviv University" height="72" width="212">
 </p>
